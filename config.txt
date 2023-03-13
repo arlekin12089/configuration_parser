@@ -1,0 +1,7 @@
+hostname=example.com
+image.width=640
+image.height=480
+mysql.production.host=10.0.0.1
+mysql.production.username=root
+mysql.slow_query=200ms
+csv.file_separator== 
